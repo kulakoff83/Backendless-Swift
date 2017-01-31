@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Backendless (3.0.44)
+  - ObjectMapper (2.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - AlamofireImage (~> 3.1)
+  - Backendless
+  - ObjectMapper (~> 2.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Backendless: bd77ad90cbd16fbd85fda03b3659b46a2c8f3179
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+
+PODFILE CHECKSUM: 55954881613c89463c02e74715247293dfb905d9
+
+COCOAPODS: 1.2.0.beta.1
